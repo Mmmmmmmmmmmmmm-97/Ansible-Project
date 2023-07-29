@@ -29,4 +29,4 @@ execute command:
 
 $ sudo vim ~/.ssh/authorized_keys
 
-In this file past the copies public key form master
+In this file paste the copies public key form master
